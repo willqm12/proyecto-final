@@ -1492,7 +1492,7 @@ button,
   -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-  background-color: transparent;
+  background-color: yellow;
   border-radius: 0.375em;
   border: 0;
   box-shadow: inset 0 0 0 2px #f56a6a;
@@ -2187,10 +2187,11 @@ button,
 
 /* Footer */
 #footer .copyright {
-  color: #9fa3a6;
+  color: cyan;
+  background: DeepPink;
   font-size: 0.9em; }
   #footer .copyright a {
-    color: inherit; }
+    color: Thistle; }
 
 /* Menu */
 #menu ul {
